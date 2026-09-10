@@ -23,4 +23,6 @@ Repository: https://github.com/TWRAR/.github
 
 ---
 
-*A <img src="https://github.com/StuxieDev.png" height="14" alt="StuxieDev" valign="middle"> [StuxieDev](https://projects.stuxie.dev) Project.*
+*Written & Maintained by <img src="https://github.com/StuxieDev.png" height="14" alt="StuxieDev" valign="middle"> [StuxieDev](https://stuxie.dev).*
+
+*<a href="https://projects.stuxie.dev">A StuxieDev Project</a>*

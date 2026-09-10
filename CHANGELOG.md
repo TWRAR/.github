@@ -4,6 +4,13 @@ All notable changes to this repo are documented here. Versioning follows
 [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PATCH`), independent
 of the other TWRAR repos' own versions.
 
+## [1.0.1] - 2026-09-10
+
+### Changed
+- Footer now reads "Written & Maintained by StuxieDev" followed by
+  "A StuxieDev Project" (previously "Built & Maintained by", reversed
+  order).
+
 ## [1.0.0] - 2026-09-10
 
 ### Added
