@@ -4,6 +4,11 @@ All notable changes to this repo are documented here. Versioning follows
 [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PATCH`), independent
 of the other TWRAR repos' own versions.
 
+## [1.0.2] - 2026-09-15
+
+### Fixed
+- `README.md` and `profile/README.md`'s footer credit now uses the hosted `https://global.media.stuxie.dev/icon.png` StuxieDev icon instead of the live GitHub avatar shorthand
+
 ## [1.0.1] - 2026-09-10
 
 ### Changed
