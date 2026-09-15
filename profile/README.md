@@ -21,4 +21,4 @@ QA/regression-test or scrape Stux.Group sites.
 
 *Written & Maintained by <img src="https://global.media.stuxie.dev/icon.png" height="14" alt="StuxieDev" valign="middle"> [StuxieDev](https://stuxie.dev).*
 
-*<a href="https://projects.stuxie.dev">A StuxieDev Project</a>*
+*[A StuxieDev Project](https://projects.stuxie.dev)*
