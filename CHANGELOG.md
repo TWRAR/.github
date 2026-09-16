@@ -4,6 +4,11 @@ All notable changes to this repo are documented here. Versioning follows
 [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PATCH`), independent
 of the other TWRAR repos' own versions.
 
+## [1.0.3] - 2026-09-16
+
+### Added
+- Bluesky and LinkedIn badges (`bsky.app/profile/stuxie.dev`, `linkedin.com/company/stuxiedev`) in a new "Connect with Us!" section in `profile/README.md`, alongside a GitHub followers badge.
+
 ## [1.0.2] - 2026-09-15
 
 ### Fixed
